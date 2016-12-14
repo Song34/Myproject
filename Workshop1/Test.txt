@@ -1,0 +1,18 @@
+﻿<!DOCTYPY html>
+<html>
+   <head>
+     <title>Why Me Questionmark?</title>
+     <meta charset="UTF-8">
+   </head>
+   <body>
+     <center>
+     <p style="font-size:20px">สวัสดีครับ
+     </center>
+   
+
+
+   
+
+
+   </body>
+</html>
