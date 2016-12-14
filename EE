@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Main Page</title>
+</head>
+<body>
+  <a
+ href="Workshop1/My profile.html">Workshop1</a>
+  <a
+ href="Workshop2/Table.html">Workshop2</a>
+  <a
+ href="Workshop3/Frameset1.html">Workshop3</a>
+ </body>
+ </html>
